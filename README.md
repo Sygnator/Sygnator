@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Sygnator/Sygnator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mateusz Sygnator, a passionate self-taught full stack junior developer and a freelance software engineer from Poland. 
+I am constantly developing and looking for new challenges.
 
-Here are some ideas to get you started:
+**Languages and tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://i.imgur.com/OFazkRz.png"></code>
+<code><img height="20" src="https://i.imgur.com/H7XiS9m.png"></code>
+<code><img height="20" src="https://i.imgur.com/2QDDqm8.png"></code>
+<code><img height="20" src="https://i.imgur.com/FgyVgEb.png"></code>
+<code><img height="20" src="https://i.imgur.com/VRLcfK8.png"></code>
+<code><img height="20" src="https://i.imgur.com/7dzQ3QA.png"></code>
+
+Projects: 
+- (PocketWifu site)[https://waifu.sanakan.pl/#/user/204697/profile]
+- (ShindenPlus)[https://chrome.google.com/webstore/detail/shindenplus/ipdeholoobbnfjjlliidbjbkciefpcdn]
