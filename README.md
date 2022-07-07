@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Mateusz Sygnator, a passionate self-taught full stack junior developer and a freelance software engineer from Poland. 
+Hi, I am Mateusz, a passionate, self-taught, freelance full stack junior developer from Poland. 
 I am constantly developing and looking for new challenges.
 
 **Languages and tools:**  
