@@ -13,5 +13,5 @@ I am constantly developing and looking for new challenges.
 <code><img height="20" src="https://i.imgur.com/7dzQ3QA.png"></code>
 
 Projects: 
-- [PocketWifu site](https://waifu.sanakan.pl/#/user/204697/profile)
+- [PocketWaifu site](https://waifu.sanakan.pl/#/user/204697/profile)
 - [ShindenPlus](https://chrome.google.com/webstore/detail/shindenplus/ipdeholoobbnfjjlliidbjbkciefpcdn)
