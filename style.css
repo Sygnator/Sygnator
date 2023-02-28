@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+  
+.wrapper {
+    display: grid;
+    grid-gap: 8px;
+    grid-template-columns: repeat(auto-fill, [col] auto );
+    grid-template-rows: repeat(auto-fill, [row] auto );
+    background-color: #fff;
+    color: #444;
+}
+  
+.box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+}
+
+.header {
+    grid-column: col / span 4;
+    grid-row: row 0;
+}
+
+.contact {
+    grid-column: col / span 4;
+    grid-row: row 1;
+}
+
+.sites {
+    grid-column: col;
+    grid-row: row 2;
+}
+
+.technologies {
+    grid-column: col;
+    grid-row: row 3;
+}
+
+.description {
+    grid-column: col 2 / span 3;
+    grid-row: row 2 / span 2;
+}
+
+.projects {
+    grid-column: col / span 4;
+    grid-row: row 4;
+}
+
+.footer {
+    grid-column: col / span 5;
+    grid-row: row 5;
+}
