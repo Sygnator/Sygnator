@@ -43,9 +43,11 @@ h1::after {
 .grid {
     color: #c3c3c3;
     font-size: 120%;
+    font-family: 'Tilt Warp', cursive;
 }
 
 .header {
+    margin-top: 1.5em;
     grid-column: col / span 3;
     grid-row: row 0;
 }
