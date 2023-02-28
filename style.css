@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #20232a;
 }
   
 .wrapper {
@@ -8,31 +9,91 @@ body {
     grid-gap: 8px;
     grid-template-columns: repeat(auto-fill, [col] auto );
     grid-template-rows: repeat(auto-fill, [row] auto );
-    background-color: #fff;
-    color: #444;
 }
-  
-.box {
-    background-color: #444;
-    color: #fff;
-    border-radius: 5px;
-    padding: 20px;
-    font-size: 150%;
+
+.link {
+    color: #2196f3;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #64b5f6;
+    font-size: 2em;
+    margin-top: 0.20em;
+    padding-bottom: 0.15em;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+h1::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg,#64b5f6,#2196f3 10%,rgba(13,71,161,0));
+    border-radius: 3px;
+}
+
+.grid {
+    color: #c3c3c3;
+    font-size: 120%;
 }
 
 .header {
-    grid-column: col / span 4;
+    grid-column: col / span 3;
     grid-row: row 0;
 }
 
 .contact {
-    grid-column: col / span 4;
+    grid-column: col / span 3;
     grid-row: row 1;
+    margin-top: 0;
 }
 
 .sites {
     grid-column: col;
     grid-row: row 2;
+}
+
+.site {
+    grid-column: col 0 / span 8;
+    grid-row: row 0;
+}
+
+.site-wrapper {
+    display: grid;
+    grid-gap: 2px;
+    grid-template-columns: repeat(auto-fill, [col] auto );
+    grid-template-rows: repeat(auto-fill, [row] auto );
+    justify-content: start;
+}
+
+.site-item {
+    margin: 3px;
+    height: 48px;
+    width: 48px;
+}
+
+.site-item:hover {
+    background-color: #30333a;
+    border-radius: 50%;
+    transition: background-color 250ms ease-out 100ms;
+}
+
+.si1 {
+    grid-column: col 0;
+    grid-row: row 1;
+}
+
+.si2 {
+    grid-column: col 1;
+    grid-row: row 1;
 }
 
 .technologies {
@@ -41,16 +102,16 @@ body {
 }
 
 .description {
-    grid-column: col 2 / span 3;
+    grid-column: col 2 / span 2;
     grid-row: row 2 / span 2;
 }
 
 .projects {
-    grid-column: col / span 4;
+    grid-column: col / span 3;
     grid-row: row 4;
 }
 
 .footer {
-    grid-column: col / span 5;
+    grid-column: col / span 4;
     grid-row: row 5;
 }
