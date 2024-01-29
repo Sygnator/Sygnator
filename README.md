@@ -5,6 +5,7 @@ I am constantly developing and looking for new challenges.
 
 **Languages and tools:**  
 
+<code><img height="20" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code>
 <code><img height="20" src="https://i.imgur.com/OFazkRz.png"></code>
 <code><img height="20" src="https://i.imgur.com/H7XiS9m.png"></code>
 <code><img height="20" src="https://i.imgur.com/2QDDqm8.png"></code>
